@@ -4,6 +4,8 @@
   
   body {
     font-family: 'Lucida Sans';
+    background: rgb(199,163,203);
+    background: linear-gradient(90deg, rgba(199,163,203,1) 0%, rgba(106,187,179,1) 35%, rgba(254,255,51,0.85) 100%);
     margin: 20px;
     padding: 0;
   }
@@ -51,13 +53,13 @@
   }
   
   body {
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Bold', 'Lucida Grande';
     margin: 20px;
     padding: 0;
   }
   
   .square {
-    background: #fff;
+    background: #ffffff;
     border: 1px solid #999;
     float: left;
     font-size: 24px;
