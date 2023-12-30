@@ -113,3 +113,5 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+// This completes the Simple TicTacToe interactive game using React library
